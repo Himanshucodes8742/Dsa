@@ -11,8 +11,8 @@ public:
         for(int i=n-k-1; i>=0;i--){
             nums[i+k]=nums[i];
         }
-        int a=temp.size();
-        for(int i=0;i<a;i++){
+        
+        for(int i=0;i<temp.size();i++){
             nums[i]=temp[i];
         }
     }
