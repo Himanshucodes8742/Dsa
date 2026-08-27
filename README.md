@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
