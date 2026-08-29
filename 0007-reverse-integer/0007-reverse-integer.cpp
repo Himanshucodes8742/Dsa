@@ -11,7 +11,7 @@ public:
         }
         
         
-        if (rev_number>=pow(2,31) || rev_number<pow(-2 ,31))return 0;
+        if (rev_number>(pow(2,31)-1) || rev_number<pow(-2 ,31))return 0;
         return rev_number;
     }
 };
