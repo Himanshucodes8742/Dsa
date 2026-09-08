@@ -5,9 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
   <img src="https://leetcard.jacoblin.cool/himanshucode_8742?theme=unicorn&font=source_code_pro&ext=activity" alt="LeetCode Stats" />
 </p>
 
-![LeetCode Streak](https://leetcard.jacoblin.cool/himanshucode_8742?theme=dark)
 
-<img src="https://github-readme-leetcode-stats.vercel.app/api?username=himanshucode_8742&theme=nord" />
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
