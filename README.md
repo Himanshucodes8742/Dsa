@@ -1,6 +1,14 @@
 # LeetCode-Solutions
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/himanshucode_8742?theme=unicorn&font=source_code_pro&ext=activity" alt="LeetCode Stats" />
+</p>
+
+![LeetCode Streak](https://leetcard.jacoblin.cool/himanshucode_8742?theme=dark)
+
+<img src="https://github-readme-leetcode-stats.vercel.app/api?username=himanshucode_8742&theme=nord" />
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
@@ -103,7 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/himanshucode_8742?theme=unicorn&font=source_code_pro&ext=activity" alt="LeetCode Stats" />
-</p>
+
+
 <!---LeetCode Topics End-->
