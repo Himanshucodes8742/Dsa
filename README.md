@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -109,6 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
-
-
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Himanshucodes8742/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
